@@ -12,4 +12,4 @@ Pueden hacer lo que quieran...
 
 ###esta es una actualizacion 
 
-##Estos cambios son buevos
+##Estos cambios son nuevos desde github
